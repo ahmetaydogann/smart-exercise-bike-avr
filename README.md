@@ -31,7 +31,7 @@ Sistem; UART üzerinden kullanıcıdan interaktif olarak kilo ve hedef kalori (�
 
 ## 📸 Ekran Görüntüleri ve Simülasyon
 
-![Devre Şeması ve Sanal Terminal](circuitdiagram.png)
+![Devre Şeması ve Sanal Terminal](circuit_diagram.png)
 *Sistemin Proteus üzerindeki genel bağlantı şeması.*
 
 ![Kilo ve Hedef Girişi](weight_input.png)
